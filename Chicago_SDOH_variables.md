@@ -22,8 +22,11 @@ See also Anselin (2024). An Introduction to Spatial Data Science with GeoDa. Vol
 Variable	Description
 ---------------------------
 ID		unique identifier
+
 OBJECTID	unique census tract identifier (same as ID)
+
 TRACTCE10	tract FIPS code
+
 geoid10		complete GEO ID code
 commarea	community area code
 Shape_Leng	perimeter
